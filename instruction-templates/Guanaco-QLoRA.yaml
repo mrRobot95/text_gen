@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+user: "### Human:"
+bot: "### Assistant:"
+turn_template: "<|user|> <|user-message|>\n<|bot|> <|bot-message|></s>\n"
+=======
+user: "### Human:"
+bot: "### Assistant:"
+turn_template: "<|user|> <|user-message|>\n<|bot|> <|bot-message|></s>\n"
+>>>>>>> 49d5dc82ec0e69d89bce1c3fe10da50560a5fd9d
+context: ""

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+to load multiple raw text files create a subdirectory and put them all there
+=======
+to load multiple raw text files create a subdirectory and put them all there
+>>>>>>> 49d5dc82ec0e69d89bce1c3fe10da50560a5fd9d
